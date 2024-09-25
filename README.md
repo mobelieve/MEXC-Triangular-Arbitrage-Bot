@@ -1,7 +1,3 @@
-"# MEXC Triangular Arbitrage Bot With GUI"
-
-
-
 # MEXC Triangular Arbitrage Bot
 
 This project is a Python-based bot that performs triangular arbitrage on the MEXC cryptocurrency exchange. It calculates potential arbitrage opportunities by comparing the price differences between three pairs and executes trades when profitable opportunities are found.
